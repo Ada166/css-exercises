@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.original,
+.updated {
+    font-size: 28px;
+    family-font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.original {
+    background-color: black;
+    color: white;
+}
+
+.updated {
+    background-color: yellow;
+}
